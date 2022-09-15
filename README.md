@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MostafaJahanian
 - 👀 I’m interested in machine learning and deep learning.
 - 🌱 I’m currently learning deep learning using keras / fastai.
-- 💞️ I’m looking to collaborate on scientific projects which require data analysis.
+- 💞️ I’m looking to collaborate on scientific / industerial projects which require data analysis.
 - 📫 How to reach me : mostafa6jhn@gmail.com / www.linkedin.com/in/mostafa-jahanian
 
 <!---
